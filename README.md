@@ -1,27 +1,27 @@
-# 🤖 GenAI Chatbot (Node.js + React)
+# GenAI Chatbot (Node.js + React)
 
 A simple and clean AI chatbot UI built using React.js and a backend AI API. Fully responsive, fast, and easy to customize.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project provides a minimal chatbot interface where users can type messages, send them to a backend `/ask` endpoint, and receive AI-generated responses. The UI includes a sidebar, chat window, and input bar designed with clean styling.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🗨️ Real-time chat interface  
-- 📱 Responsive UI design  
-- 🔗 Easy API integration  
-- 📂 Organized folder structure  
-- ⚛️ Built using reusable React components  
-- ⚡ Fast development and easy customization  
+- Real-time chat interface  
+- Responsive UI design  
+- Easy API integration  
+- Organized folder structure  
+- Built using reusable React components  
+- Fast development and easy customization  
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - React components & props  
 - Hooks (`useState`, `useEffect`)  
